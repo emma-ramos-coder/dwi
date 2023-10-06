@@ -1,1 +1,2 @@
-ImplementaciÛn de un CRUD b·sico de la tabla productos con PHP y MySQL y con el patrÛn MVC.
+Implementaci√≥n de un CRUD b√°sico de la tabla productos con PHP y MySQL y con el patr√≥n MVC.
+https://emmaedithramoscalcina.blogspot.com/2023/09/ejemplo-basico-mvc-basico-en-php.html
