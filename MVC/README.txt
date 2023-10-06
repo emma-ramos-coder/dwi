@@ -1,0 +1,1 @@
+Implementación de un CRUD básico de la tabla productos con PHP y MySQL y con el patrón MVC.
